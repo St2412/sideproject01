@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Dependency directories
+vendor/
+
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# OS generated files
+.DS_Store
+Thumbs.db
