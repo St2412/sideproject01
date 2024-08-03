@@ -1,0 +1,27 @@
+{
+    "name": "vtuber-sideproject-frontend",
+    "version": "1.0.0",
+    "description": "Frontend part of the Vtuber side project",
+    "main": "src/index.tsx",
+    "scripts": {
+      "start": "webpack serve",
+      "build": "webpack",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+      "typescript": "^4.9.5",
+      "webpack": "^5.77.0",
+      "webpack-cli": "^5.0.0",
+      "webpack-dev-server": "^4.11.1",
+      "ts-loader": "^9.4.2",
+      "@types/react": "^18.0.28",
+      "@types/react-dom": "^18.0.10"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
